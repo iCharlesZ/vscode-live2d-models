@@ -141,119 +141,175 @@
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/len_impact/len_impact.model.json`
 
+![len_impact](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/len_impact.png)
+
 ### 24. len_space
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/len_space/len_space.model.json`
+
+![len_space](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/len_space.png)
 
 ### 25. len_swim
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/len_swim/len_swim.model.json`
 
+![len_swim](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/len_swim.png)
+
 ### 26. mikoto
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/mikoto/mikoto.model.json`
+
+![mikoto](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/mikoto.png)
 
 ### 27. miku
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/miku/miku.model.json`
 
+![miku](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/miku.png)
+
 ### 28. murakumo
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/murakumo/index.json`
+
+![murakumo](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/murakumo.png)
 
 ### 29. ni-j
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/ni-j/ni-j.model.json`
 
+![ni-j](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/ni-j.png)
+
 ### 30. nico
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/nico/nico.model.json`
+
+![nico](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/nico.png)
 
 ### 31. nietzsche
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/nietzsche/nietzsche.model.json`
 
+![nietzsche](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/nietzsche.png)
+
 ### 32. nipsilon
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/nipsilon/nipsilon.model.json`
+
+![nipsilon](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/nipsilon.png)
 
 ### 33. nito
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/nito/nito.model.json`
 
+![nito](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/nito.png)
 
 ### 34. potion-Maker-Pio
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/potion-Maker-Pio/index.json`
 
+![Pio](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/Pio.png)
+
 ### 35. potion-Maker-Tio
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/potion-Maker-Tio/index.json`
+
+![Tio](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/Tio.png)
 
 ### 36. ryoufuku
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/ryoufuku/ryoufuku.model.json`
 
+![ryoufuku](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/ryoufuku.png)
+
 ### 37. saten
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/saten/saten.model.json`
+
+![saten](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/saten.png)
 
 ### 38. seifuku
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/seifuku/seifuku.model.json`
 
+![seifuku](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/seifuku.png)
+
 ### 39. shifuku
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/shifuku/shifuku.model.json`
+
+![shifuku](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/shifuku.png)
 
 ### 40. shifuku2
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/shifuku2/shifuku2.model.json`
 
+![shifuku2](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/shifuku2.png)
+
 ### 41. shizuku-48
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/shizuku-48/index.json`
+
+![shizuku](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/shizuku.png)
 
 ### 42. shizuku-pajama
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/shizuku-pajama/index.json`
 
+![shizuku-pajama](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/shizuku-pajama.png)
+
 ### 43. stl
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/stl/stl.model.json`
+
+![stl](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/stl.png)
 
 ### 44. tororo
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/tororo/tororo.model.json`
 
+![tororo](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/tororo.png)
+
 ### 45. touma
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/touma/touma.model.json`
+
+![touma](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/touma.png)
 
 ### 46. tsumiki
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/tsumiki/tsumiki.model.json`
 
+![tsumiki](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/tsumiki.png)
+
 ### 47. uiharu
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/uiharu/uiharu.model.json`
+
+![uiharu](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/uiharu.png)
 
 ### 48. unitychan
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/unitychan/unitychan.model.json`
 
+![unitychan](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/unitychan.png)
+
 ### 49. wanko
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/wanko/wanko.model.json`
+
+![wanko](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/wanko.png)
 
 ### 50. wed_16
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/wed_16/wed_16.model.json`
 
+![wed_16](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/wed_16.png)
+
 ### 51. z16
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/z16/z16.model.json`
 
+![z16](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/z16.png)
 
 
 # Please wait for more models...
