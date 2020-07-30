@@ -17,11 +17,11 @@
 ![bilibili-33](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/bilibili-33.png)
 
 
-### 3. chiaki-kitty
+### 3. chiaki_kitty
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/chiaki_kitty/chiaki_kitty.model.json`
 
-![chiaki-kitty](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/chiaki-kitty.png)
+![chiaki_kitty](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/chiaki_kitty.png)
 
 ### 4. chitose
 
