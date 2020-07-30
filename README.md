@@ -21,81 +21,121 @@
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/chiaki_kitty/chiaki_kitty.model.json`
 
+![chiaki-kitty](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/chiaki-kitty.png)
+
 ### 4. chitose
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/chitose/chitose.model.json`
+
+![chitose](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/chitose.png)
 
 ### 5. date_16
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/date_16/date_16.model.json`
 
+![date_16](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/date_16.png)
+
 ### 6. epsilon
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/epsilon/epsilon.model.json`
+
+![epsilon](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/epsilon.png)
 
 ### 7. Gantzert_Felixander
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/gf/Gantzert_Felixander.model.json`
 
+![Gantzert_Felixander](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/Gantzert_Felixander.png)
+
 ### 8. hallo_16
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/hallo_16/hallo_16.model.json`
+
+![hallo_16](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/hallo_16.png)
 
 ### 9. haru01
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/haru01/haru01.model.json`
 
+![haru01](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/haru01.png)
+
 ### 10. haru02
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/haru02/haru02.model.json`
+
+![haru02](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/haru02.png)
 
 ### 11. haruto
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/haruto/haruto.model.json`
 
+![haruto](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/haruto.png)
+
 ### 12. hibiki
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/hibiki/hibiki.model.json`
+
+![hibiki](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/hibiki.png)
 
 ### 13. hijiki
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/hijiki/hijiki.model.json`
 
+![hijiki](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/hijiki.png)
+
 ### 14. index
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/index/index.model.json`
+
+![index](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/index.png)
 
 ### 15. izumi
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/izumi/izumi.model.json`
 
+![izumi](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/izumi.png)
+
 ### 16. jin
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/jin/jin.model.json`
+
+![jin](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/jin.png)
 
 ### 17. kanzaki
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kanzaki/kanzaki.model.json`
 
+![kanzaki](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/kanzaki.png)
+
 ### 18. kesshouban
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kesshouban/model.json`
+
+![kesshouban](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/kesshouban.png)
 
 ### 19. kobayaxi
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kobayaxi/kobayaxi.model.json`
 
+![kobayaxi](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/kobayaxi.png)
+
 ### 20. koharu
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/koharu/koharu.model.json`
+
+![koharu](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/koharu.png)
 
 ### 21. kuroko
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/kuroko/kuroko.model.json`
 
+![kuroko](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/kuroko.png)
+
 ### 22. len
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/len/len.model.json`
+
+![len](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/len.png)
 
 ### 23. len_impact
 
