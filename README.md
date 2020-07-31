@@ -3,7 +3,7 @@
 
 VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vscode-live2d
 
-[2020-7-31 新增少女前线模型](#52-HK416-normal)
+[2020-7-31 新增少女前线模型](#52-HK416-805-normal)
 
 ## URL
 
@@ -315,11 +315,39 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 ![z16](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/z16.png)
 
-### 52. HK416-normal
+### 52. HK416-805-normal
 
-`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-normal/model.json`
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-805/normal/model.json`
 
-![HK416-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/HK416-normal.gif)
+![HK416-805-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/HK416-805-normal.gif)
+
+### 53. HK416-805-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-805/destroy/model.json`
+
+### 54. HK416-3401-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-3401/normal/model.json`
+
+### 55. HK416-3401-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-3401/destroy/model.json`
+
+### 55. ump45-2107-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-2107/normal/model.json`
+
+### 56. ump45-2107-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-2107/destroy/model.json`
+
+### 57. ump45-mod-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-mod/normal/model.json`
+
+### 58. ump45-mod-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-mod/destroy/model.json`
 
 
 # Please wait for more models...
