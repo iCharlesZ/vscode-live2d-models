@@ -209,11 +209,11 @@
 
 ![Pio](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/Pio.png)
 
-### 35. potion-Maker-Tio
+### 35. potion-Maker-Tia
 
-`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/potion-Maker-Tio/index.json`
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/potion-Maker-Tia/index.json`
 
-![Tio](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/Tio.png)
+![Tia](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/Tia.png)
 
 ### 36. ryoufuku
 
