@@ -1,6 +1,8 @@
 # vscode-live2d-models
 ### VSCode看板娘模型库
 
+VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vscode-live2d
+
 ## URL
 
 ### 1. bilibili-22
