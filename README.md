@@ -339,25 +339,25 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 ![HK416-3401-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/HK416-3401-destroy.gif)
 
-### 55. ump45-2107-normal
+### 56. ump45-2107-normal
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-2107/normal/model.json`
 
 ![ump45-2107-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/ump45-2107-normal.gif)
 
-### 56. ump45-2107-destroy
+### 57. ump45-2107-destroy
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-2107/destroy/model.json`
 
 ![ump45-2107-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/ump45-2107-destroy.gif)
 
-### 57. ump45-mod-normal
+### 58. ump45-mod-normal
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-mod/normal/model.json`
 
 ![ump45-mod-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/ump45-mod-normal.gif)
 
-### 58. ump45-mod-destroy
+### 59. ump45-mod-destroy
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-mod/destroy/model.json`
 
