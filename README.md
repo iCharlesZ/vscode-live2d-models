@@ -313,5 +313,11 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 ![z16](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/z16.png)
 
+### 52. HK416-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-normal/model.json`
+
+![HK416-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/HK416-normal.gif)
+
 
 # Please wait for more models...
