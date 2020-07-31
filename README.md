@@ -3,6 +3,8 @@
 
 VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vscode-live2d
 
+[2020-7-31 新增少女前线模型](#52-HK416-normal)
+
 ## URL
 
 ### 1. bilibili-22
