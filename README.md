@@ -319,35 +319,49 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-805/normal/model.json`
 
-![HK416-805-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/HK416-805-normal.gif)
+![HK416-805-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/HK416-805-normal.gif)
 
 ### 53. HK416-805-destroy
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-805/destroy/model.json`
 
+![HK416-805-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/HK416-805-destroy.gif)
+
 ### 54. HK416-3401-normal
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-3401/normal/model.json`
+
+![HK416-3401-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/HK416-3401-normal.gif)
 
 ### 55. HK416-3401-destroy
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/HK416-3401/destroy/model.json`
 
+![HK416-3401-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/HK416-3401-destroy.gif)
+
 ### 55. ump45-2107-normal
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-2107/normal/model.json`
+
+![ump45-2107-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/ump45-2107-normal.gif)
 
 ### 56. ump45-2107-destroy
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-2107/destroy/model.json`
 
+![ump45-2107-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/ump45-2107-destroy.gif)
+
 ### 57. ump45-mod-normal
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-mod/normal/model.json`
 
+![ump45-mod-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/ump45-mod-normal.gif)
+
 ### 58. ump45-mod-destroy
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master//model-library/girls-frontline/ump45-mod/destroy/model.json`
+
+![ump45-mod-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/ump45-mod-destroy.gif)
 
 
 # Please wait for more models...
