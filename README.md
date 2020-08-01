@@ -361,5 +361,29 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 ![UMP45-2-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/UMP45-2-destroy.gif)
 
+### 60. UMP45-3-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/UMP45-3/normal/model.json`
+
+![UMP45-3-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/UMP45-3-normal.gif)
+
+### 61. UMP45-3-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/UMP45-3/destroy/model.json`
+
+![UMP45-3-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/UMP45-3-destroy.gif)
+
+### 62. M4A1-1-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/M4A1-1/normal/model.json`
+
+![M4A1-1-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/M4A1-1-normal.gif)
+
+### 63. M4A1-1-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/M4A1-1/destroy/model.json`
+
+![M4A1-1-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/M4A1-1-destroy.gif)
+
 
 # Please wait for more models...
