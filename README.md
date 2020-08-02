@@ -3,7 +3,7 @@
 
 VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vscode-live2d
 
-[Girls Frontline Model](#51-hk416-1-normal)
+[Girls Frontline Model | 少女前线模型](#51-hk416-1-normal)
 
 ## URL
 
