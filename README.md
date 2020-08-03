@@ -429,5 +429,17 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 ![WA2000-1-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/WA2000-1-destroy.gif)
 
+### 71. WA2000-2-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/WA2000-2/normal/model.json`
+
+![WA2000-2-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/WA2000-2-normal.gif)
+
+### 72. WA2000-2-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/WA2000-2/destroy/model.json`
+
+![WA2000-2-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/WA2000-2-destroy.gif)
+
 
 # Please wait for more models...
