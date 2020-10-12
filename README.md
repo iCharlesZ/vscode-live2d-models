@@ -453,5 +453,9 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 ![WA2000-3-destroy](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/WA2000-3-destroy.gif)
 
+### 75. Kar98k-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/Kar98k/normal/model.json`
+
 
 # Please wait for more models...
