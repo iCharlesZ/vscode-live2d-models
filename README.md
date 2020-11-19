@@ -3,6 +3,9 @@
 
 VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vscode-live2d
 
+打开 “设置@ext:charlesz.vscode-live2d” 粘贴模型对应的url即可直接使用
+![](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/modelUrl.jpg)
+
 [Girls Frontline Model | 少女前线模型](#51-hk416-1-normal)
 
 ## URL
