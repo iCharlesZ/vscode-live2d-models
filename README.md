@@ -462,5 +462,13 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 ![Kar98k-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/Kar98k-normal.gif)
 
+### 76. G11-normal
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/G11/normal/model.json`
+
+### 76. G11-destroy
+
+`https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/G11/destroy/model.json`
+
 
 # Please wait for more models...
