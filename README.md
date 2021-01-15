@@ -476,5 +476,7 @@ VSCode看板娘: https://marketplace.visualstudio.com/items?itemName=CharlesZ.vs
 
 `https://raw.githubusercontent.com/iCharlesZ/vscode-live2d-models/master/model-library/girls-frontline/UMP9/normal/model.json`
 
+![UMP9-normal](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/model-library/girls-frontline/UMP9-normal.gif)
+
 
 # Please wait for more models...
